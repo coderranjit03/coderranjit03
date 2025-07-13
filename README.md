@@ -1,12 +1,10 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0MjA5OTgsIm5iZiI6MTc1MjQyMDY5OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEzVDE1MzEzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MGU2YjQ2NzQ3ZGNjOGRmZmQ0MThmNzIyMTgzYzY5Yjc2MjRhN2MzZjM1NWMxMDBkZDRhZjQyYjJjMWMwNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.M2WLvsiteptx338dLMlZA6vZPf73TszYjv5Bwzwhchw)
-
-
+<img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <h1 align="center">Hi 👋, I'm Ranjit Kadam</h1>
 
 # 💫 About Me:
 ⚙️ Code. Analyze. Automate. Build.
 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif")
+(img align="right" alt="Coding" width="400" src="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif")
 
 
 ## 🌐 Socials:
