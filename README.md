@@ -2,6 +2,11 @@
 <p align="center">
   <img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderranjit03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 
 <h1 align="center">Hi, I'm Ranjit Kadam</h1>
 
